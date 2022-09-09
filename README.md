@@ -107,7 +107,9 @@ Each project has its own logo. The logos can be used on their own, but should be
 
 Patches is a special case, since it is only a UI library and most likely not interesting to our main audience, therefore there is only a colorful variant for this project.
 
-[![](logos/png/patches-colorful_256.png)](logos/png/patches-colorful_256.png)
+| Colorful |
+| -- |
+| [![](logos/png/patches-colorful_256.png)](logos/png/patches-colorful_256.png) |
 
 ## Color
 
