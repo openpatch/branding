@@ -118,7 +118,9 @@ Patches is a special case, since it is only a UI library and most likely not int
 | ![](colors/openpatch-green.png) | ![](colors/black.png) | ![](colors/white.png) |
 | #007864 | #000000 | #FFFFFF |
 
-| ![](colors/deep-forrest.png)  | ![](colors/fresh-mint.png) | ![](colors/coal.png) | ![](colors/charcoal.png) | ![](colors/quicksilver.png) | ![](colors/silver-charlice.png) | ![](colors/whitesmoke.png) |
+| | | | | | | |
+|-- | -- | -- | -- | -- | -- | -- |
+| ![](colors/deep-forest.png)  | ![](colors/fresh-mint.png) | ![](colors/coal.png) | ![](colors/charcoal.png) | ![](colors/quicksilver.png) | ![](colors/silver-charlice.png) | ![](colors/whitesmoke.png) |
 | #004c45 | #b5e3d8 | #242428 | #3c3c3c | #a4a4a4 | #d6d6d6 | #f5f5f5 |
 
 ## Typography
