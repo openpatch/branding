@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 352.73001 352.70999"
+   version="1.1"
+   sodipodi:docname="OpenPatch Color 1.svg"
+   width="352.73001"
+   height="352.70999"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview2637"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.7707865"
+     inkscape:cx="173.36929"
+     inkscape:cy="189.74619"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs2629">
+    <style
+       id="style2627">.cls-1{fill:#017460;}</style>
+  </defs>
+  <title
+     id="title2631">Icon</title>
+  <path
+     class="cls-1"
+     d="M 339,352.71 H 13.73 A 13.75,13.75 0 0 1 0,338.98 V 13.73 A 13.75,13.75 0 0 1 13.73,0 H 339 a 13.75,13.75 0 0 1 13.73,13.73 V 338.98 A 13.75,13.75 0 0 1 339,352.71 Z M 15.17,337.56 H 337.58 V 15.14 H 15.17 Z"
+     id="path2633" />
+  <path
+     id="path22-7-0"
+     class="cls-1"
+     d="m 119.42,229.15 a 5.47,5.47 0 0 1 1.6,4.37 v 41.3 q 0,5.55 -5.6,5.61 l -35.17,-0.06 q -5.55,0 -5.55,-5.55 v -22.41 a 1.8,1.8 0 0 1 0.22,-0.85 l -0.06,-0.16 -0.16,-0.06 v -17.82 q 0,-5.6 5.55,-5.55 l 35.17,-0.05 a 6.18,6.18 0 0 1 4,1.23 M 279.18,102.79 q 0.1,5.66 -5.55,5.76 l -35.11,-0.08 q -5.76,0 -5.87,-5.65 L 232.6,80.35 q 0.11,-5.66 5.87,-5.65 l 35.32,0.1 q 5.44,0.11 5.34,5.55 l 0.05,22.47 m -99.25,0 0.05,-22.47 c 0.08,-3.77 2,-5.65 5.87,-5.65 l 35,-0.06 c 3.84,0 5.74,1.91 5.71,5.71 l -0.06,22.47 q 0.11,5.66 -5.65,5.65 h -35 q -5.76,0 -5.87,-5.65 m -6.3,0 c 0,3.8 -1.81,5.69 -5.55,5.65 h -35.16 c -3.73,0 -5.62,-1.85 -5.65,-5.65 l -0.06,-22.47 c 0.08,-3.77 2,-5.65 5.66,-5.65 h 35.22 q 5.55,0 5.44,5.65 l 0.05,22.47 M 80.25,74.64 115.42,74.7 c 3.73,0 5.55,1.85 5.44,5.65 l 0.05,22.47 c 0.08,3.77 -1.74,5.65 -5.44,5.65 H 80.25 q -5.55,0 -5.65,-5.65 L 74.54,80.35 c 0.07,-3.77 2,-5.67 5.71,-5.71 m 199,120.33 0.05,22.47 q 0,5.55 -5.66,5.65 l -193.38,-0.1 q -5.55,0 -5.55,-5.55 v -22.55 a 2,2 0 0 1 0.22,-1 c -0.15,-0.78 -0.25,-1.53 -0.32,-2.24 l 0.1,-47.07 a 13.52,13.52 0 0 1 0.16,-2 4.93,4.93 0 0 1 -0.14,-1.11 v -22.46 q -0.1,-5.65 5.45,-5.66 h 35.21 q 5.55,0 5.66,5.66 v 22.46 c 0,0.43 0,0.84 0,1.23 0,0.67 0,1.33 0,2 l -0.11,44.61 h 111.71 l 0.05,-42.21 h -99.78 q -5.55,0 -5.55,-5.55 v -22.59 q -0.1,-5.66 5.44,-5.66 l 140.66,0.11 q 5.65,-0.1 5.77,5.55 v 22.51 a 3.14,3.14 0 0 1 0,0.75 v 1.6 l 0.05,48.72 a 10.68,10.68 0 0 0 0,1.6 1.09,1.09 0 0 0 -0.05,0.8 m 20,109.45 c 3.41,0 5.14,-1.73 5.17,-5.18 L 304.37,53.47 q 0,-4.59 -4.22,-5.07 a 5.05,5.05 0 0 1 -1,-0.1 L 53.63,48.2 q -5.3,0.17 -5.29,5.28 v 246.74 c 0.39,2.74 2.16,4.08 5.29,4 l 245.62,0.16" />
+  <metadata
+     id="metadata2756">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
