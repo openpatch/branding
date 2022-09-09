@@ -1,6 +1,6 @@
 #!/bin/bash
 
-logo_sizes=(32 64 128 256 512)
+logo_sizes=(32 64 128 256 512 1024 2048)
 mkdir -p logos/png
 rm -r logos/png/*
 mkdir -p logos/ico
