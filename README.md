@@ -109,7 +109,7 @@ Patches is a special case, since it is only a UI library and most likely not int
 
 | Colorful |
 | -- |
-| [![](logos/png/patches-colorful_256.png)](logos/png/patches-colorful_256.png) |
+| [![](logos/png/patches-colorful_128.png)](logos/png/patches-colorful_128.png) |
 
 ## Color
 
