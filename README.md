@@ -10,7 +10,7 @@ This repository helps to guide the [OpenPatch](https://openpatch.org) brand. We 
 
 ## This is Us
 
-OpenPatch is an acronym for Open Platform for Assessment and Training of Competencies, especially in the field of Computer Science. The four letters in **Open** are not only the first you read, but are also the core foundation which we are based on. We believe that education should be available to everybody. Therefore, we focus our work on Open Source making everything we do available to the public.
+OpenPatch is an acronym for Open Projects for Assessment and Training of Competencies, especially in the field of Computer Science. The four letters in **Open** are not only the first you read, but are also the core foundation which we are based on. We believe that education should be available to everybody. Therefore, we focus our work on Open Source making everything we do available to the public.
 
 ## Brand Principles
 
