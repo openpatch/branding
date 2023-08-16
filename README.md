@@ -6,11 +6,11 @@
 
 # Branding Guidelines
 
-This repository helps to guide the [OpenPatch](https://openpatch.org) brand. We are always striving to improve the quality of assessment and training of competencies in computer science education. We hope that your and our work pushes everybody to reach their potential. By following these guidelines we hope that you understand our brand right now and how we show up consistently around the world. If you had like to know more or get a clarification, just ask.
+This repository helps to guide the [OpenPatch](https://openpatch.org) brand. We are always striving to improve the quality of assessment and training of competencies in computer science education and subjects like Mathematics. We hope that your and our work pushes everybody to reach their potential. By following these guidelines we hope that you understand our brand right now and how we show up consistently around the world. If you had like to know more or get a clarification, just ask.
 
 ## This is Us
 
-OpenPatch is an acronym for Open Projects for Assessment and Training of Competencies, especially in the field of Computer Science. The four letters in **Open** are not only the first you read, but are also the core foundation which we are based on. We believe that education should be available to everybody. Therefore, we focus our work on Open Source making everything we do available to the public.
+OpenPatch is an acronym for Open Platform for Assessment and Training of Competencies, especially in the field of Computer Science and Mathematics. The four letters in **Open** are not only the first you read, but are also the core foundation which we are based on. We believe that education should be available to everybody. Therefore, we focus our work on Open Source making everything we do available to the public.
 
 ## Brand Principles
 

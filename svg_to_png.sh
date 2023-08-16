@@ -9,6 +9,7 @@ for file in logos/svg/*.svg
 do
   for size in "${logo_sizes[@]}"
   do
+  echo "$file in $size"
   name=${file##*/}
   base=${name%.svg}
   inkscape $f --export-width=${size} --export-type=png --export-filename=logos/png/${base}_${size}.png $file
@@ -24,8 +25,19 @@ for size in "${wallpaper_sizes[@]}"
 do
   for file in wallpapers/svg/*.svg
   do
+    echo "$file in $size"
     name=${file##*/}
     base=${name%.svg}
     inkscape $f --export-width=${size} --export-type=png --export-filename=wallpapers/png/${base}_${size}.png $file
   done
+done
+
+mkdir -p social/png
+rm -r social/png/*
+for file in social/svg/*.svg
+do
+  echo "$file in $size"
+  name=${file##*/}
+  base=${name%.svg}
+  inkscape $f --export-width=${size} --export-type=png --export-filename=social/png/${base}_${size}.png $file
 done
